@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 - 💻 Dev full-stack, at least i think 🤦🏽‍♂️💁🏽‍♂️
 - 🔭 I’m currently working on spring boot and angular development
-- 👨🏾‍💻 I’m currently learning flutter, angular, c# (.net core) and xamarin.forms
+- 👨🏾‍💻 I’m currently learning flutter, angular.
 - ⚡ fun fact: I'm already a father and it made me very happy
